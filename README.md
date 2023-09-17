@@ -1,2 +1,2 @@
-# real time dehazing
+# Real time dehazing
  
